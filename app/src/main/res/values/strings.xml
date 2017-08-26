@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Iconomy</string>
+    <string name="sOk">OK</string>
+    <string name="sAtualizar">Atualizar</string>
+    <string name="sCDI">CDI</string>
+    <string name="sIPCA">IPCA</string>
+    <string name="sIGPM">IGPM</string>
+    <string name="sSelic">Selic</string>
+    <string name="sPoupanca">Poupança</string>
+    <string name="sErroCarregar">Erro ao carregar!</string>
+    <string name="sMenu1">Home</string>
+    <string name="sMenu2">Simulação</string>
+    <string name="sMenu3">Gráficos</string>
+    <string name="sMenu4">4</string>
+    <string name="sBtSimular">Simular</string>
+    <string name="sTituloTabela">Indicadores</string>
+</resources>
