@@ -23,7 +23,6 @@ public class Global {
     public static String sIGPM;
     public static String sSelic;
     public static String sPoupanca;
-    public static String steste;
 
 
     public static class PegaValores extends AsyncTask<Void,Void,String[]> {
